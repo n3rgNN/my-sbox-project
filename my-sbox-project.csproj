@@ -1,0 +1,10 @@
+<Project Sdk="Sbox.SDK/1.0.0">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<AssemblyName>my-sbox-project</AssemblyName>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+		<NoWarn>1591</NoWarn>
+	</PropertyGroup>
+</Project>
