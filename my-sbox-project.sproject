@@ -1,0 +1,14 @@
+{
+  "Title": "My S&Box Project",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "my_sbox_project",
+  "Tags": "multiplayer,game",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePath": "/",
+  "Code": "code",
+  "Binaries": "bin",
+  "LaunchPath": "/"
+}

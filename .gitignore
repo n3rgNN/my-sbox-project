@@ -1,0 +1,23 @@
+# Binaries
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# S&Box
+.vs/
+.sproject.json
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Node
+node_modules/
+package-lock.json
